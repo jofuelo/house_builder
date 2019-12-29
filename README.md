@@ -22,12 +22,7 @@ To place doors, windows or furniture just left click on wherever you want to pla
 ![Screenshot](screenshot.PNG)
 
 <h2>To do</h2>
-Some functionalities have few options, like the pieces of furniture available. A lot of new models could be added to enrich a lot this work.
-
-Actions cannot be undone and the elements placed on the scene cannot be removed. A "destroy" action should be added.
+- Some functionalities have few options, like the pieces of furniture available. A lot of new models could be added to enrich a lot this work.
+- Actions cannot be undone and the elements placed on the scene cannot be removed. A "destroy" action should be added.
 <h2>Credits</h2>
-I do not own any of the textures and models used in this project and I do not take any profit of them.
-
-Unfortunately, this was an academic project and I did not write down the authors of these great works.
-
-If anyone is able to recognize them, please open an issue or contact me and notify me so I am able to give proper credit to the authors.
+I do not own any of the textures and models used in this project and I do not take any profit of them. Unfortunately, this was an academic project and I did not write down the authors of these great works. If anyone is able to recognize them, please open an issue or contact me and notify me so I am able to give proper credit to the authors.
