@@ -3,6 +3,7 @@
 This is a house builder simulator developed with WebGL and threejs. It is just a graphical software to design and build your own house in a piece of terrain, similar to what can be done in the Sims.
 <h2>Functionalities</h2>
 In this app you can do the following actions:
+
 - Build walls in your terrain.
 - Place doors in those walls (2 models available)
 - Place windows (1 model available)
@@ -22,6 +23,7 @@ To place doors, windows or furniture just left click on wherever you want to pla
 ![Screenshot](screenshot.PNG)
 
 <h2>To do</h2>
+
 - Some functionalities have few options, like the pieces of furniture available. A lot of new models could be added to enrich a lot this work.
 - Actions cannot be undone and the elements placed on the scene cannot be removed. A "destroy" action should be added.
 <h2>Credits</h2>
