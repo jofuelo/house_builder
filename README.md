@@ -18,9 +18,9 @@ To paint the walls or place the doors you can use the same controls. Left click 
 
 To place doors, windows or furniture just left click on wherever you want to place it. Doors and windows won't show unless you're clicking on a wall. To rotate a piece of furniture you have to press "r" key on the keyboard.
 <h2>Screenshots</h2>
-```
+
 ![Screenshot](screenshot.PNG)
-```
+
 <h2>To do</h2>
 Some functionalities have few options, like the pieces of furniture available. A lot of new models could be added to enrich a lot this work.
 
