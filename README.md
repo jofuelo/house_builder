@@ -15,6 +15,7 @@ In this app you can do the following actions:
 <h2>Controls</h2>
 To start building, click the left button of your mouse with "Walls" selected. Click again to confirm the wall you're building or left to cancel it.
 
+
 To paint the walls or place the doors you can use the same controls. Left click to start painting/placing, left again to confirm or right to cancel.
 
 To place doors, windows or furniture just left click on wherever you want to place it. Doors and windows won't show unless you're clicking on a wall. To rotate a piece of furniture you have to press "r" key on the keyboard.
